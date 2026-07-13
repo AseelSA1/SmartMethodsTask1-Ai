@@ -1,1 +1,2 @@
-# SmartMethodsTask1-Ai
+# SmartMethodsTasks-Ai and robotics :
+task 1 
